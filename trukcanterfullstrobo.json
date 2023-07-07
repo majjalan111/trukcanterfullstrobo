@@ -68,33 +68,33 @@
   "categories": [
     {
       "id": 1,
-      "name": "Hino Dump Truk",
-      "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur.png"
+      "name": "Truk Canter Strobo",
+      "image": "https://raw.githubusercontent.com/majjalan111/trukcanterfullstrobo/main/canter%20%20fitur.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Hino Dump Truk",
-      "title": "HINO 500 DUMP TRUCK BUDESIGN MBOISS",
-      "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur%20(2).png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/hinodumptruk1.html",
+      "category": "Truk Canter Strobo",
+      "title": "Truk Canter Full Strobo Mbois",
+      "image": "https://raw.githubusercontent.com/majjalan111/trukcanterfullstrobo/main/canter%20%20fitur.png",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukcanterfullstrobo/main/trukcanterstrobo1.html",
       "video": ""
     },
 {
       "id": 2,
-      "category": "Hino Dump Truk",
-      "title": "HINO 500 DUMP V2 BUDESIGN SIMPLE MBOIS",
-      "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur%20(3).png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/hinodumptruk2.html",
+      "category": "Truk Canter Strobo",
+      "title": "Koleksi Mod Truk Canter Full Strobo",
+      "image": "https://raw.githubusercontent.com/majjalan111/trukcanterfullstrobo/main/canter%20%20fitur.png",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukcanterfullstrobo/main/trukcanterstrobo2.html",
       "video": ""
     },
 {
       "id": 3,
-      "category": "Hino Dump Truk",
+      "category": "Truk Canter Strobo",
       "title": "Livery Hino Dump Truk",
-      "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur%20(1).png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/hinodumptruk3.html",
+      "image": "https://raw.githubusercontent.com/majjalan111/trukcanterfullstrobo/main/canter%20%20fitur.png",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukcanterfullstrobo/main/trukcanterstrobo3.html",
       "video": ""
     }
 	
